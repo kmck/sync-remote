@@ -15,5 +15,10 @@
   },
   "dependencies": {
     "emissary": "1.x"
-  }
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kmck/sync-remote/issues"
+  },
+  "homepage": "https://github.com/kmck/sync-remote",
 }
