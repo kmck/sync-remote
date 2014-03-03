@@ -1,0 +1,18 @@
+{
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "Sync with Remote",
+                    "submenu": [
+                        {
+                            "label": "Sync Current File",
+                            "command": "sync-remote:sync-file"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
