@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "private": true,
   "description": "Copies saved files in a project to a remote location.",
-  "repository": "https://github.com/atom/sync-remote",
+  "repository": "https://github.com/kmck/sync-remote",
   "license": "MIT",
   "author": {
     "name": "Keith McKnight",
