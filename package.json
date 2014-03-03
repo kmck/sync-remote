@@ -6,8 +6,12 @@
   "description": "Copies saved files in a project to a remote location.",
   "repository": "https://github.com/atom/sync-remote",
   "license": "MIT",
+  "author": {
+    "name": "Keith McKnight",
+    "url": "http://mcknig.ht"
+  },
   "engines": {
-    "atom": "*"
+    "atom": ">0.50.0"
   },
   "dependencies": {
     "emissary": "1.x"
